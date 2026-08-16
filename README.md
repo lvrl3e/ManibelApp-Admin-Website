@@ -167,3 +167,41 @@ ManibelApp-Admin-Website/
 ├── vite.config.ts
 ├── tsconfig.json
 └── README.md
+
+## 👩‍💻 My Role
+
+I designed and developed the ManibelApp Admin Website.
+
+I was responsible for the implementation of the application's major frontend features, architecture, navigation, authentication, API integration, and administrative workflows.
+
+My responsibilities included:
+Designing and developing the admin interface
+React frontend development
+TypeScript implementation
+Component-based architecture
+Responsive UI development
+Admin dashboard development
+Authentication implementation
+Protected route implementation
+Session management
+Login and logout functionality
+Forgot password flow
+Commuter management
+Commuter detail pages
+Driver management
+ID verification
+Jeepney monitoring
+Jeepney live maps
+Trip history
+Passenger monitoring
+Passenger live maps
+Incident reports
+Reports
+Admin settings
+REST API integration
+API client implementation
+Interactive map functionality
+Data management
+Report/export functionality
+
+I also implemented the application's routing and authentication architecture using React Router and a centralized authentication provider.

@@ -127,6 +127,34 @@ The application is built with **React, TypeScript, Vite, Tailwind CSS, and REST 
 
 ---
 
+## 📸 Screenshots
+
+### 🔐 Login
+
+![Login](./screenshots/login.png)
+
+### 📊 Dashboard
+
+![Dashboard](./screenshots/dashboard.png)
+
+### 👥 Commuter Management
+
+![Commuters](./screenshots/commuters.png)
+
+### 🚗 Driver Management
+
+![Drivers](./screenshots/drivers.png)
+
+### 🚌 Jeepney Monitoring
+
+![Jeepney Monitoring](./screenshots/jeepney-monitoring.png)
+
+### 📍 Live Map
+
+![Live Map](./screenshots/live-map.png)
+
+---
+
 ### 👩‍💻 My Role
 
 I designed and developed the ManibelApp Admin Website, including the application's frontend architecture, user interface, navigation, authentication, API integration, and administrative workflows.

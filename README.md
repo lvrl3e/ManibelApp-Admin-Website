@@ -132,34 +132,33 @@ The application is built with **React, TypeScript, Vite, Tailwind CSS, and REST 
 I designed and developed the ManibelApp Admin Website, including the application's frontend architecture, user interface, navigation, authentication, API integration, and administrative workflows.
 
 My responsibilities included:
-🎨 Designing and developing the admin interface
-⚛️ React frontend development
-📘 TypeScript implementation
-🧩 Component-based architecture
-📱 Responsive UI development
-📊 Admin dashboard development
-🔐 Authentication implementation
-🛡️ Protected route implementation
-🔑 Session management
-🚪 Login and logout functionality
-🔄 Forgot password flow
-👥 Commuter management
-👤 Commuter detail pages
-🚗 Driver management
-🪪 ID verification
-🚌 Jeepney monitoring
-📍 Jeepney live maps
-📋 Trip history
-👤 Passenger monitoring
-🗺️ Passenger live maps
-🚨 Incident reports
-📈 Reports
-⚙️ Admin settings
-🔌 REST API integration
-🔗 API client implementation
-🗺️ Interactive map functionality
-📊 Data management
-📤 Report and export functionality
+- Designing and developing the admin interface
+- React frontend development
+- TypeScript implementation
+- Component-based architecture
+- Responsive UI development
+- Admin dashboard development
+- Authentication implementation
+- Protected route implementation
+- Session management
+- Login and logout functionality
+- Forgot password flow
+- Commuter detail pages
+- Driver management
+- ID verification
+- Jeepney monitoring
+- Jeepney live maps
+- Trip history
+- Passenger monitoring
+- Passenger live maps
+- Incident reports
+- Reports
+- Admin settings
+- REST API integration
+- API client implementation
+- Interactive map functionality
+- Data management
+- Report and export functionality
 
 I also implemented the application's routing and authentication architecture using React Router and a centralized authentication provider.
 

@@ -167,6 +167,9 @@ ManibelApp-Admin-Website/
 ├── vite.config.ts
 ├── tsconfig.json
 └── README.md
+```text
+
+---
 
 ## 👩‍💻 My Role
 
